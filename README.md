@@ -1,6 +1,6 @@
 # gpt-3-deterministic-prompts
 
-A repository for suggestions from GPT-3 prompts where the output should be deterministic (ie. temperature = 0.0 )
+A repository for suggestions for GPT-3 prompts,  where the output should be deterministic (ie. temperature = 0.0 ).
 
 I don't have access to the GPT-3 API as of yet - this repository is a place to store future ideas for prompts I'd like to test against the API.
 
@@ -8,3 +8,15 @@ If you have suggestions for prompts you'd like to suggest, or you have the actua
 
 Once the outputs for the prompts in this repository are determined ( when run against the API), this repository will be updated to contain the known output,  and will automatically get pulled into the gpt-3-mock-api project
 ( https://github.com/ml4j/gpt-3-mock-api )
+
+## Maintainer/Creator
+
+Michael Lavelle
+
+## License
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+## Disclaimer
+
+This repo has no affiliation with OpenAI.
